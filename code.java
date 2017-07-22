@@ -54,7 +54,7 @@ public class Solution {
             }
         }
         
-        //The least amount of steps is length of the array minues the amount of repetition of the highest repeated value.
+        //The least amount of steps is length of the array minus the amount of repetition of the highest repeated value.
         System.out.println(array.length - max);
     }
 }
